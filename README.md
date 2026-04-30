@@ -64,6 +64,17 @@
 | [AI from the Global Majority](./books/AI-from-the-Global-Majority.pdf) | 📖 Book | `ai-governance` `global-south` `africa` `policy` `UN-IGF` `digital-rights` | 320-page 2024 UN IGF report on AI & data governance from the Global Majority perspective. Edited by Luca Belli & Walter Britto Gaspar. [Official page](https://direitorio.fgv.br/en/publication/ai-global-majority) |
 
 ---
+## 🤖 Open Source LLMs
+
+> A curated list of open source large language models available on GitHub.
+
+### Models
+
+| Model | Organisation | Tags | GitHub/HF |
+|-------|-------------|------|--------|
+| [MiMO-V2.5 Pro](https://mimo.xiaomi.com/mimo-v2-5/) |XIAOMI|`MiMO-V2.5 PRO` `XIAOMI MIMO`, |https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro |
+| [MiMO-V2.5](https://mimo.xiaomi.com/mimo-v2-5-pro/) |XIAOMI|`MiMO-V2.5` `XIAOMI MIMO`, |https://huggingface.co/XiaomiMiMo/MiMo-V2.5 |
+| [MiMO-V2.5-ASR](https://github.com/XiaomiMiMo/MiMo-V2.5-ASR) |XIAOMI|`MiMO-V2.5-ASR` `XIAOMI MIMO`, |https://github.com/XiaomiMiMo/MiMo-V2.5-ASR |
 
 ## 🤖 Topic 2 — Template
 
